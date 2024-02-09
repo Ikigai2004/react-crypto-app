@@ -18,6 +18,7 @@ export const cryptoData = {
       redditUrl: 'https://www.reddit.com/r/Bitcoin/',
       websiteUrl: 'http://www.bitcoin.org',
       twitterUrl: 'https://twitter.com/bitcoin',
+      contractAddress: 'BTC',
       explorers: [
         'https://blockchair.com/bitcoin/',
         'https://btc.com/',
@@ -622,4 +623,5 @@ export const cryptoAssets = [
     price: 2400,
     date: new Date(),
   },
+
 ]
